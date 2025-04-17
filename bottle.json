@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "brand": "Hydro Flask",
+    "capacity": "1L",
+    "material": "Stainless Steel",
+    "isInsulated": true,
+    "canHoldHotWater": true,
+    "color": "Black",
+    "image": "https://www.hydroflask.com/media/catalog/product/cache/1/image/600x600/9df78eab33525d08d6e5fb8d27136e95/w/m/wmflexstraw_black_1.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Nalgene",
+    "capacity": "750ml",
+    "material": "Plastic",
+    "isInsulated": false,
+    "canHoldHotWater": false,
+    "color": "Blue",
+    "image": "https://nalgene.com/wp-content/uploads/2020/08/2178-2020-Blue-1.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "S'well",
+    "capacity": "500ml",
+    "material": "Stainless Steel",
+    "isInsulated": true,
+    "canHoldHotWater": true,
+    "color": "Rose Gold",
+    "image": "https://www.swell.com/cdn/shop/products/rose-gold-17oz-1.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "CamelBak",
+    "capacity": "600ml",
+    "material": "Plastic",
+    "isInsulated": false,
+    "canHoldHotWater": false,
+    "color": "Green",
+    "image": "https://www.camelbak.com/dw/image/v2/BBRC_PRD/on/demandware.static/-/Sites-camelbak-master-catalog/default/dw6f9f9b8e/images/large/CB-1512401001.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "ThermoFlask",
+    "capacity": "1.2L",
+    "material": "Stainless Steel",
+    "isInsulated": true,
+    "canHoldHotWater": true,
+    "color": "Gray",
+    "image": "https://mythermoflask.com/cdn/shop/products/40oz-Graphite-1.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Contigo",
+    "capacity": "700ml",
+    "material": "Plastic",
+    "isInsulated": true,
+    "canHoldHotWater": false,
+    "color": "Purple",
+    "image": "https://www.gocontigo.com/dw/image/v2/BBRC_PRD/on/demandware.static/-/Sites-master-catalog/default/dw2e3f9b8e/images/large/Contigo-2144905.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Brita",
+    "capacity": "1L",
+    "material": "Plastic",
+    "isInsulated": false,
+    "canHoldHotWater": false,
+    "color": "White",
+    "image": "https://images.brita.com/is/image/Brita/6025836289_brita-premium-filtered-water-bottle-32oz-white-hero-1"
+  },
+  {
+    "id": 8,
+    "brand": "Klean Kanteen",
+    "capacity": "800ml",
+    "material": "Stainless Steel",
+    "isInsulated": true,
+    "canHoldHotWater": true,
+    "color": "Silver",
+    "image": "https://www.kleankanteen.com/cdn/shop/products/Klean-Kanteen-Insulated-TKWide-20oz-Brushed-Stainless.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Takeya",
+    "capacity": "950ml",
+    "material": "Stainless Steel",
+    "isInsulated": true,
+    "canHoldHotWater": true,
+    "color": "Teal",
+    "image": "https://takeyausa.com/cdn/shop/products/Takeya-40oz-Teal.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Simple Modern",
+    "capacity": "650ml",
+    "material": "Plastic",
+    "isInsulated": false,
+    "canHoldHotWater": false,
+    "color": "Pink",
+    "image": "https://www.simplemodern.com/cdn/shop/products/Simple-Modern-Kids-Water-Bottle-Pink.jpg"
+  }
+]
